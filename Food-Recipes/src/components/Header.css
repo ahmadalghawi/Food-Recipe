@@ -1,0 +1,52 @@
+.header {
+    background-color: #B4C0D3;
+    padding: 10px 100px;
+  }
+  
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header .logo img {
+    height: 50px;
+  }
+
+  .left-nav {
+    display: flex;
+    align-items: center;
+  }
+  
+   nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+    nav ul li {
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
+   nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .auth-buttons button {
+    margin: 0 15px;
+    background-color: #E0E0E2;
+    color: #333;
+  }
+
+  .auth-buttons a {
+    margin: 0 15px;
+    
+  }
+
+  .auth-buttons a:hover {
+    cursor: pointer;
+  }
+
+  

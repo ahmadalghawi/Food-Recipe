@@ -1,0 +1,97 @@
+[
+  {
+    "id": "3505ebe5-8de8-4697-826d-8f66ed32b335",
+    "title": "Classic Spaghetti Carbonara",
+    "image": "/uploads/image2.png",
+    "ingredients": "\r\n400g spaghetti\r\n200g pancetta or guanciale, diced\r\n2 large eggs\r\n1 cup grated Pecorino Romano cheese (or Parmesan)\r\n2 cloves garlic, minced\r\nSalt and black pepper, to taste\r\nFresh parsley, chopped (optional, for garnish)",
+    "instructions": "Cook the Spaghetti:\r\nBring a large pot of salted water to a boil. Add the spaghetti and cook according to the package instructions until al dente. Reserve 1 cup of pasta water, then drain the spaghetti.",
+    "email": "ahmad@gmail.com",
+    "tags": [
+      "cold",
+      "vegetable",
+      "chicken",
+      "sweet"
+    ],
+    "category": "Snacks"
+  },
+  {
+    "id": "d283b696-6be6-412b-85a0-51c0f8d8b555",
+    "title": "Chocolate Cake",
+    "image": "/uploads/image1.png",
+    "ingredients": "2 Cups (265g) all purpose flour\r\n1 2/3 Cups (340g) white granulated sugar\r\n2/3 Cup (60g) unsweetened natural cocoa powder\r\n2 tsp baking soda\r\n1 tsp baking powder\r\n1/2 tsp kosher salt\r\n1/2 Cup (120ml) vegetable oil\r\n2 eggs, room temperature\r\n1 1/2 tsp pure vanilla extract\r\n1 Cup (240ml) full-fat buttermilk*, room temperature DIY recipe in the notes\r\n1 Cup (240ml) hot coffee or hot water\r\n",
+    "instructions": "Preheat the oven to 350ºF and prepare three 6-inch or two 8-inch cake pans by spraying the sides with cooking spray and fitting the bottoms with a wax paper or parchment cake circle. \r\nPlace all of the dry ingredients into the bowl of a stand mixer and stir on low for 30 seconds to fully combine them. Add the vegetable oil, eggs, vanilla, and buttermilk and mix on low until just combined. With the mixer still on low, add the hot water in a slow stream, then turn the mixer to medium and beat until smooth, about 2 minutes. The batter will be very thin. \r\nPour into prepared cake pans no more than 2/3 full and bake for 32-36 minutes, until a toothpick inserted comes out clean. Cool completely before frosting with chocolate buttercream or frosting of your choice.",
+    "email": "ahmad@gmail.com",
+    "category": "Lunch"
+  },
+  {
+    "id": "12bff4e1-1b81-4540-9f81-e11368ed3357",
+    "title": "Grilled Fish",
+    "image": "/uploads/image5.png",
+    "ingredients": "6 tablespoons olive oil\r\n\r\n1 tablespoon fresh lemon juice\r\n\r\n1 tablespoon chopped fresh parsley\r\n\r\n1 clove garlic, minced\r\n\r\n1 teaspoon dried basil\r\n\r\n1 teaspoon salt\r\n\r\n1 teaspoon ground black pepper\r\n\r\n2 (6 ounce) fillets halibut",
+    "instructions": "Combine olive oil, lemon juice, parsley, garlic, basil, salt, and pepper together in a stainless steel or glass bowl.\r\n\r\nPlace the halibut fillets in a shallow glass dish or a resealable plastic bag; pour the marinade over the fish. Cover or seal and place in the refrigerator for 1 hour, turning occasionally.\r\n\r\nPreheat an outdoor grill for high heat and lightly oil the grate. Set grate 4 inches from the heat.\r\n\r\nRemove halibut fillets from marinade and drain off any excess.\r\n\r\nCook on the preheated grill until fish flakes easily with a fork, about 5 minutes per side."
+  },
+  {
+    "id": "6c6614a4-a350-4e34-bcaa-c004b33af40a",
+    "title": "lever checken",
+    "image": "/uploads/image4.png",
+    "ingredients": "1 tablespoon butter (the best butter you can find)\r\n1 tablespoon olive oil\r\n1 large onion, finely chopped\r\n1 tablespoon finely minced garlic (2 large cloves)\r\n1/2 cup red bell pepper, diced\r\n450g chicken livers, cleaned and trimmed of excess fat\r\n1 teaspoon salt\r\n1 teaspoon cracked black pepper\r\n1/2 tablespoon Worcestershire sauce\r\n2 tablespoons tomato paste\r\n1 1/2 teaspoons cumin\r\n1 1/2 teaspoons smoked paprika\r\n1 teaspoon peri peri chili powder OR fresh chopped red chili (depends on how spicy you want it!)\r\n1 tablespoon fresh oregano leaves\r\n2-3 bay leaves depending on size\r\n1/4 cup fresh lemon juice\r\n1/2 cup (min) to 3/4 cup (max) heavy cream - it depends on how saucy you want it!\r\n1-2 tablespoons brandy\r\nTo serve: fresh parsley and crusty bread with butter",
+    "instructions": "Heat butter and olive oil in a large skillet over medium heat. Sauté onions for 3 minutes or until translucent, add garlic and chicken livers. Sauté until chicken livers are browned, then add red peppers and sprinkle with salt and pepper. Stir, add tomato paste, Worcestershire sauce, seasonings, oregano, bay leaves and lemon juice. \r\n\r\nCook for 2-3 minutes, stirring until all the flavors meld. It is important so that the lemon juice melds with the other ingredients first, otherwise you may experience curdling. Lower the heat, add heavy cream and simmer for 5-10 minutes being careful not to overcook the chicken livers. I usually test one by cutting it open and it should still be just slightly pink in the middle. Pour brandy into the pan, sprinkle with parsley and serve with crusty bread."
+  },
+  {
+    "id": "8d68e3bb-35d5-4b70-99c9-862fc930b2c2",
+    "title": "chicken lever",
+    "image": "/uploads/image3.png",
+    "ingredients": "1 tablespoon butter (the best butter you can find)\r\n1 tablespoon olive oil\r\n1 large onion, finely chopped\r\n1 tablespoon finely minced garlic (2 large cloves)\r\n1/2 cup red bell pepper, diced\r\n450g chicken livers, cleaned and trimmed of excess fat\r\n1 teaspoon salt\r\n1 teaspoon cracked black pepper\r\n1/2 tablespoon Worcestershire sauce\r\n2 tablespoons tomato paste\r\n1 1/2 teaspoons cumin\r\n1 1/2 teaspoons smoked paprika\r\n1 teaspoon peri peri chili powder OR fresh chopped red chili (depends on how spicy you want it!)\r\n1 tablespoon fresh oregano leaves\r\n2-3 bay leaves depending on size\r\n1/4 cup fresh lemon juice\r\n1/2 cup (min) to 3/4 cup (max) heavy cream - it depends on how saucy you want it!\r\n1-2 tablespoons brandy\r\nTo serve: fresh parsley and crusty bread with butter",
+    "instructions": "Heat butter and olive oil in a large skillet over medium heat. Sauté onions for 3 minutes or until translucent, add garlic and chicken livers. Sauté until chicken livers are browned, then add red peppers and sprinkle with salt and pepper. Stir, add tomato paste, Worcestershire sauce, seasonings, oregano, bay leaves and lemon juice. \r\n\r\nCook for 2-3 minutes, stirring until all the flavors meld. It is important so that the lemon juice melds with the other ingredients first, otherwise you may experience curdling. Lower the heat, add heavy cream and simmer for 5-10 minutes being careful not to overcook the chicken livers. I usually test one by cutting it open and it should still be just slightly pink in the middle. Pour brandy into the pan, sprinkle with parsley and serve with crusty bread."
+  },
+  {
+    "id": "dbf9abea-b3ba-4946-b3f4-f0e47d81e05a",
+    "title": "",
+    "image": "/uploads/contact.png",
+    "ingredients": "s10 gg",
+    "instructions": "s22 amd s24",
+    "email": "ahmad@gmail.com",
+    "tags": [
+      "hot",
+      "fish"
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": "fc962863-2199-4957-ad47-8100717d3063",
+    "title": "asdasd",
+    "image": "/uploads/food.png",
+    "ingredients": "asdas",
+    "instructions": "asdasd",
+    "email": "ahmad@gmail.com",
+    "tags": [],
+    "category": "Breakfast"
+  },
+  {
+    "id": "743575bb-536f-41b0-ade5-b753dfde3f63",
+    "title": "asdasd",
+    "image": "/uploads/wavesNegative.svg",
+    "ingredients": "asd",
+    "instructions": "asd",
+    "email": "ahmad@gmail.com",
+    "tags": [
+      "hot",
+      "meat",
+      "sweet"
+    ]
+  },
+  {
+    "id": "1716395013243",
+    "title": "asdasd",
+    "ingredients": "asdas",
+    "instructions": "asdas",
+    "image": "/uploads/add recipe page.png",
+    "email": "ahmad@gmail.com",
+    "tags": [
+      "cold",
+      "vegetable",
+      "fish"
+    ],
+    "category": "Desserts"
+  }
+]

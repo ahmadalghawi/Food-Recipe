@@ -1,0 +1,124 @@
+.add-recipe {
+    min-height: 750px;
+    margin-bottom: 50px;
+}
+
+.add-recipe h2{
+     margin-left: 100px;
+     margin-top: 50px;
+    }
+    
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 600px;
+    margin-left: 100px
+}
+.add-recipe form {
+    padding: 20px;
+    margin: 15px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+.add-recipe input {
+    width: 100%;
+    max-width: 600px;
+    height: 40px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 0.8em;
+    font-family: 'Inter', sans-serif;
+    outline: none;
+  }
+  
+  .add-recipe input:focus {
+    border: 1px solid #B4C0D3;
+    outline: none;
+  }
+
+  .add-recipe select {
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 0.8em;
+    font-family: 'Inter', sans-serif;
+    outline: none;
+ }
+  
+  .add-recipe label {
+    margin-bottom: 10px;
+}
+
+.add-recipe textarea {
+    width: 100%;
+    max-width: 600px;
+    height: 200px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 0.8em;
+    font-family: 'Inter', sans-serif;
+    outline: none;
+  }
+  
+  .add-recipe textarea:focus {
+    border: 1px solid #B4C0D3;
+    outline: none;
+  }
+
+  .add-recipe-btn {
+    margin-left: 300px;
+    align-self: flex-start;
+    background: #B4C0D3;
+    padding: 10px 40px;
+    font-size: 17px;
+    font-weight: 500;
+    border-radius: 0.9em;
+    border: none;
+    box-shadow: inset 0 0 1.6em -0.6em #B4C0D3;
+    height: 2.8em;
+    text-align: center;
+  }
+
+  .modal-add-recipe {
+    position: absolute;
+    border: 1px solid rgb(204, 204, 204);
+    background: #FAF6F6;
+    overflow: auto;
+    outline: none;
+    padding: 35px;
+    border-radius: 5px;
+    top: 30%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .modal-add-recipe button {
+    width: 150px;
+  }
+
+  .tags-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Four columns */
+  }
+  
+  .tags-container div {
+    display: flex;
+    align-items: center;
+  }
+  
+  .tags-container input[type="checkbox"] {
+    margin-right: 8px; /* Space between checkbox and label */
+    width: 20px;
+    margin-bottom: 10px;
+  }
