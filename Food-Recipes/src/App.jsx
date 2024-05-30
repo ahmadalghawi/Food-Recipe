@@ -29,9 +29,8 @@ function App() {
         <Route path="/my-profile" element={<ProtectedRoute element={<MyProfile />} />} />
         <Route path="/recipes" element={<Recipes />} />
         <Route path="/add-recipe" element={<ProtectedRoute element={<AddRecipe />} />} />
-        <Route path="/recipes/:recipeId" element={<RecipeDetail />} >
-        <Route path="*" element={<NotFound />} /> {/* Catch-all route */}
-        </Route>
+        <Route path="/recipes/:recipeId" element={<RecipeDetail />} />
+        <Route path="*" element={<NotFound />} />
         </Routes>
       <Footer />
     </Router>
